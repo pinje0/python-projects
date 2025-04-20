@@ -1,0 +1,3 @@
+[submodule "05-password_manager"]
+	path = 05-password_manager
+	url = https://github.com/pinje0/05-password_manager.git
